@@ -13,9 +13,8 @@ Actively seeking **Data Analyst** and **Junior Data Scientist** opportunities
 
 ---
 
-### Featured Work
-- **[US Crime Data Analysis & Trend Modeling](#)** *(Coming soon)* — End-to-end exploratory data analysis and seasonal trend modeling using Python and Pandas.
-
+### 📊 Featured Work
+- **[US Crime Data Analysis & Trend Modeling](https://github.com/Sidraa-Akhtar/us-crime-data-analysis)** — End-to-end exploratory data analysis and seasonal trend modeling using Python, Pandas, and Seaborn.
 ---
 
 ### Connect With Me
